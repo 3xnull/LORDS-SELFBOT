@@ -5,9 +5,10 @@ BUY HACKER PLAN ON REPLIT OR GET A GUD PC WITH A DAMN FAST ETHERNET SPEED / OR A
 # DEVELOPERS
 VishaL#0491 , ! HazarD </>#8161
 # Features
-* Fast Nuker - 
-* Supports 1 Day Prune - 
-* Fast WebhookSpam -  
+* Nuke Commands - 
+* Utility Commands - 
+* Custom Activity Commands -  
+* Supports 1 Day Prune -  
 # ScreenShot
 ![](./screenshot.png)
 # Please Star or Fork To Help Me Out And Receive Regular Updates
