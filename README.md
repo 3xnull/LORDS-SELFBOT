@@ -7,8 +7,7 @@ VishaL#0491 , ! HazarD </>#8161
 # Features
 * Fast Nuker - 
 * Supports 1 Day Prune - 
-* WebhookSpam - 
-* Utility - 
+* Fast WebhookSpam -  
 # ScreenShot
 ![](./screenshot.png)
 # Please Star or Fork To Help Me Out And Receive Regular Updates
